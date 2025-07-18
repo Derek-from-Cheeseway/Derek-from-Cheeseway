@@ -1,4 +1,4 @@
-# Hello, I'm Derek - the developer of CheeseWay 🧀
+# Hello, I'm Derek - the developer of CheeseWay
 
 **CheeseWay** is a cozy little donation platform built for creators - especially developers - who want something more than just a "Buy Me a Coffee" button or a Patreon that isn’t really made for devs.
 
